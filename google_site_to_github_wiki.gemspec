@@ -2,10 +2,10 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "GoogleSiteToGithubWiki/version"
+require "google_site_to_github_wiki/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "GoogleSiteToGithubWiki"
+  spec.name          = "google_site_to_github_wiki"
   spec.version       = GoogleSiteToGithubWiki::VERSION
   spec.authors       = ["Diego Scataglini"]
   spec.email         = ["dscataglini@hedgeye.com"]

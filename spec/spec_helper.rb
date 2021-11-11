@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "GoogleSiteToGithubWiki"
+require "google_site_to_github_wiki"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

@@ -1,4 +1,4 @@
-require "GoogleSiteToGithubWiki/version"
+require "google_site_to_github_wiki/version"
 require 'html2markdown'
 require 'nokogiri'
 require 'find'
